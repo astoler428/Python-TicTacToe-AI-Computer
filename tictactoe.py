@@ -88,8 +88,9 @@ def cpu_turn():
     spot = best_cpu_move(0)
     board[spot] = 'O'
 
-# -1 is comp loses, 0 is draw, 1 is comp wins
 
+# computer finds the best move through a minmax strategy with backtracking
+# -1 is comp loses, 0 is draw, 1 is comp wins
 def best_cpu_move(depth):
     #base cases
     if win('X'):
