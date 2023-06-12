@@ -1,3 +1,1 @@
-This was an opportunity to dabble in python and practice algorithms. I've created tic tac toe multiple times in Java and JavaScript.
-I collaborated with a python programmer who set up the game flow in python.
-I read through to understand the code and improved it from a random computer move to the best computer move using a backtracking algorithm called the minmax strategy.
+This was an opportunity to dabble in python and practice algorithms. I've created tic tac toe multiple times in Java and JavaScript. I collaborated with a python programmer who set up the game flow in python. I read through to understand the code and improved it from a random computer move to the best computer move using a backtracking algorithm called the minmax strategy.
